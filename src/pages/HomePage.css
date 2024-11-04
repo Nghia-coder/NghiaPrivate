@@ -1,0 +1,20 @@
+.top-bar {
+    background-color: blue;
+    color :#fff;
+    font-size: large
+    ;
+    padding
+
+}
+
+.top-bar .profile {
+    border-left: 1px solix #fff;
+    border-right: 1px solix #fff;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+.cursor-pointer:hover{
+    text-decoration: underline;
+}

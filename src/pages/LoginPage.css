@@ -1,0 +1,28 @@
+.window{
+    background-color: #DCC6F9;
+    width: 100vw;
+    height: 100vh;  
+}
+.login-body{
+    margin: auto;
+    background-color: #fff;
+    min-width: 50%;
+    min-height: 50%;
+    border-radius: 10px;
+    padding: 50px;
+}
+.form-login-container{
+    border: 1px solid grey ;
+    border-radius: 4px;
+    padding: 20px;
+}
+.login-background{
+background-image: url(Mewo.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-top: 15%;
+  margin-left: 10px;
+}
+.social-btn{
+    border: 1px solid #000;
+}
